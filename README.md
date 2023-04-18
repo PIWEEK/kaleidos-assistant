@@ -56,5 +56,5 @@ You could use the answer's parameters (`max_len`/`max_tokens`) to suit this limi
 
 
 ### References
-https://platform.openai.com/docs/tutorials/web-qa-embeddings
-https://github.com/openai/openai-cookbook/tree/main/apps/web-crawl-q-and-a
+- https://platform.openai.com/docs/tutorials/web-qa-embeddings
+- https://github.com/openai/openai-cookbook/tree/main/apps/web-crawl-q-and-a
