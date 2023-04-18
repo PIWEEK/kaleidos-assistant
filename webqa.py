@@ -432,7 +432,7 @@ def answer_question(
             # for model gpt-3.5-turbo
             # messages=f"Answer the question based on the context below, and if the question can't be answered based on the context, say \"I don't know\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
             prompt=f"Answer the question based on the context below, and if the question can't be answered based on the context, say \"Lo siento, no lo se\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
-            temperature=0,
+            temperature=0.5,
             max_tokens=max_tokens,
             top_p=1,
             frequency_penalty=0,

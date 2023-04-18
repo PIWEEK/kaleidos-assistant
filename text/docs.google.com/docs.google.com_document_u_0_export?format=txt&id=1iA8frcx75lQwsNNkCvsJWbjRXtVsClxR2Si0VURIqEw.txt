@@ -256,7 +256,7 @@ En ocasiones oirás hablar de Ana y María José. Ana nos gestiona toda la parte
 Históricamente Ana recibía las dudas a nivel laboral, pero ahora lo está centralizando todo Marta, nuestra People Specialist. 
 
 
-María José está detrás de la dirección de administración@kaleidos.net y es quien se encarga de organizar la compra de billetes, reservas de hoteles, etc. María José también traabja en nuestra empresa amiga Secuoyas, así que dejará de trabajar con nosotras cuando encontremos oficina y contratemos a nuestra office manager que gestionará todo este tipo de cosas.
+María José está detrás de la dirección de administracion@kaleidos.net y es quien se encarga de organizar la compra de billetes, reservas de hoteles, etc. María José también traabja en nuestra empresa amiga Secuoyas, así que dejará de trabajar con nosotras cuando encontremos oficina y contratemos a nuestra office manager que gestionará todo este tipo de cosas.
 
 
 5. Modelo de negocio de Kaleidos
@@ -328,7 +328,7 @@ Lo primero es instalar Linux en tu portátil (el que prefieras) y para eso está
 Utilizamos la suite de Google, así que accede aquí a tu cuenta que será nombre.apellido@kaleidos.net Tu contraseña la tiene tu madrina, pero no te preocupes que es temporal y podrás cambiarla por la que desees.
 3. Listas de correo y emails 
 Hay una lista de correo principal donde están todas las personas que trabajamos en Kaleidos, aparte de las que tengamos luego para proyectos y grupos de trabajo. ¿Qué tal si mandas un saludo a todo el mundo y te presentas? (Con que utilices la lista de todo Kaleidos será suficiente).
-* team@kaleidos.net (lista de todo Kaleidos).
+* team@kaleidos.net (lista de correo interna de todo Kaleidos).
 * taiga-product@kaleidos.net
 * penpot@kaleidos.net
 * community@kaleidos.net
@@ -545,7 +545,7 @@ En ocasiones oirás hablar de Ana y María José. Ana nos gestiona toda la parte
 Históricamente Ana recibía las dudas a nivel laboral, pero ahora lo está centralizando todo Marta, nuestra People Specialist. 
 
 
-María José está detrás de la dirección de @administracion@kaleidos.net y es quien se encarga de organizar la compra de billetes, reservas de hoteles, etc. María José también traabja en nuestra empresa amiga Secuoyas, así que dejará de trabajar con nosotras cuando encontremos oficina y contratemos a nuestra office manager que gestionará todo este tipo de cosas.
+María José está detrás de la dirección de administracion@kaleidos.net y es quien se encarga de organizar la compra de billetes, reservas de hoteles, etc. María José también traabja en nuestra empresa amiga Secuoyas, así que dejará de trabajar con nosotras cuando encontremos oficina y contratemos a nuestra office manager que gestionará todo este tipo de cosas.
 Tu madrina te puede explicar un poco más sobre esto e incluso cómo va el tema de las oficinas o el Comité de KAPRI.
 5. Modelo de negocio de Kaleidos
 Tu madrina te habrá organizado una sesión para que Carol, Peter o PRuiz te expliquen el modelo de negocio de Kaleidos. Estas son las presentaciones que utilizarán:
