@@ -23,8 +23,8 @@ openai.api_key = os.getenv('OPENAI_API_KEY')
 # Regex pattern to match a URL
 HTTP_URL_PATTERN = r'^http[s]{0,1}://.+$'
 # Define root domain to crawl
-domain = "libro-blanco.kaleidos.net"
-full_url = "https://libro-blanco.kaleidos.net/"
+domain = "onboarding.docs.google"
+full_url = "https://docs.google.com/document/u/0/export?format=txt&id=1iA8frcx75lQwsNNkCvsJWbjRXtVsClxR2Si0VURIqEw"
 
 PROCESSED_DIR = f"processed/{domain}"
 
@@ -167,6 +167,51 @@ def crawl(url):
                 seen.add(link)
 
 crawl(full_url)
+
+
+################################################################################
+### Step 4 - single file
+################################################################################
+
+def crawl_single_url(url):
+    # Parse the URL and get the domain
+    local_domain = urlparse(url).netloc
+
+    # Create a set to store the URLs that have already been seen (no duplicates)
+    seen = set([url])
+
+    # Create a directory to store the text files
+    if not os.path.exists("text/"):
+        os.mkdir("text/")
+
+    if not os.path.exists("text/"+domain+"/"):
+        os.mkdir("text/" + domain + "/")
+
+    # Create a directory to store the csv files
+    # if not os.path.exists("processed"):
+    if not os.path.exists(PROCESSED_DIR):
+        # os.mkdir("processed")
+        os.mkdir(PROCESSED_DIR)
+
+    # Save text from the url to a <url>.txt file
+    with open('text/'+domain+'/'+url[8:].replace("/", "_") + ".txt", "w", encoding="UTF-8") as f:
+
+        # Get the text from the URL using BeautifulSoup
+        soup = BeautifulSoup(requests.get(url).text, "html.parser")
+
+        # Get the text but remove the tags
+        text = soup.get_text()
+
+        # If the crawler gets to a page that requires JavaScript, it will stop the crawl
+        if ("You need to enable JavaScript to run this app." in text):
+            print("Unable to parse page " + url + " due to JavaScript being required")
+
+        # Otherwise, write the text to the file in the text directory
+        f.write(text)
+
+
+crawl_single_url(full_url)
+
 
 ################################################################################
 ### Step 5
