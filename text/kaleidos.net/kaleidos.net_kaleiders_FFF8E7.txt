@@ -1,0 +1,13 @@
+
+
+David Barragán Merino - Kaleider
+
+
+
+
+
+
+Página cargandoKaleidersWhat we doCultureOur ProductsContactBlogDavid Barragán MerinoEngineer & Naive Cyberactivist A "whatever" developer, promiscuous techie eager for new challenges and adventures. 
+ I'm passionate about new technologies, especially everything related to Web, usability and accessibility. I'm interested in architectural design, the good programming practices and the open source world.  Technology, programming, web, music, gazpacho, movies, tv series, reading, sports, travel, adventure, colorful apples, flying cows. David's toolsAngularCSS 3GitHTML 5JavaJavascriptLinuxMechanical KeyboardMongoDBPostgreSQLPythonReactRedisVimVue.jsPostCSSWebpackDockerTypeScriptFlutterTaigaNot just a pretty faceSalupro#EHEALTH #PLATFORMIt allows you to purchase medical equipment for your hospital from a huge list of suppliers and it will obtain the lowest total price for the entire shopping cart.Go to siteGuía Repsol#DATAMODEL #WEBComprehensive travel guide. A powerful CMS system, a complex data model and a sophisticated map plus a mobile-ready webapp.Go to siteGonway#SOCIAL #WEBGonway is a social network that allows companies and students to meet and better know each other.HF-Predict#machinelearning #ehealth #timeseries #ICU #wearableThe first clinically accurate wearable device and machine learning software for predicting Heart Failure (HF) of a patient.Go to siteAssets Management#MACHINELEARNING #RISK #REPORTING #SAVINGSMachine-learning assisted risk management platform for multi-million-dollar utilities assets. It crunchs data and output knowledge to mitigate risk the smart way.Taiga#agile, #managementFree. Open Source. Powerful. Taiga is a project management platform for startups and agile developers & designers. A Kaleidos start-up.Go to siteCuVitt#PLATFORM #RECRUITINGTransforming the recruiting process: an intelligent CV that converts into valuable data the key characteristics in people. The company was acquired after a successful technical due dilligence.On the blog go to David's posts  go to David's posts
+Kaleidos INC Sucursal en EspañaMadridSpainContactTerms of useKaleidos Web SVG sprite
+
