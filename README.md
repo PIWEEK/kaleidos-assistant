@@ -1,12 +1,17 @@
 ### How to start
 
 Install a new virtual environment for Python
-```
+```shell
 python3.10 -m venv .venv
 ```
 
-Install the requirements
+Load the .venv
+```shell
+. .venv/bin/activate
 ```
+
+Install the requirements
+```shell
 pip install -r requirements.txt
 ```
 

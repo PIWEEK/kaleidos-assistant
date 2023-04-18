@@ -200,7 +200,7 @@ def crawl_single_url(url):
         soup = BeautifulSoup(requests.get(url).text, "html.parser")
 
         # Get the text but remove the tags
-        text = soup.get_text()
+        text = soup.get_text(strip=True)
 
         # If the crawler gets to a page that requires JavaScript, it will stop the crawl
         if ("You need to enable JavaScript to run this app." in text):
@@ -400,9 +400,9 @@ def create_context(
 
 def answer_question(
     df,
-    model="text-davinci-003",
-    # for model gpt-3.5-turbo
-    # model="gpt-3.5-turbo",
+    # model="text-davinci-003",
+    # uncomment for model gpt-3.5-turbo
+    model="gpt-3.5-turbo",
     question="Am I allowed to publish model outputs to Twitter, without a human review?",
     max_len=1800,
     size="ada",
@@ -426,12 +426,21 @@ def answer_question(
 
     try:
         # Create a completions using the question and context
-        # for model gpt-3.5-turbo
-        # response = openai.ChatCompletion.create(
-        response = openai.Completion.create(
-            # for model gpt-3.5-turbo
-            # messages=f"Answer the question based on the context below, and if the question can't be answered based on the context, say \"I don't know\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
-            prompt=f"Answer the question based on the context below, and if the question can't be answered based on the context, say \"Lo siento, no lo se\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
+        # uncomment for model gpt-3.5-turbo
+        response = openai.ChatCompletion.create(
+        # response = openai.Completion.create(
+            # uncomment for model gpt-3.5-turbo
+            messages=[
+                {
+                    "role": "system",
+                    "content": f"Eres un asistente inteligente que responderá preguntas de empleados sobre la empresa Kaleidos. Tus respuestas estarán basadas en el contexto proporcionado, y si no entiendes la pregunta según ese contexto, responderás \"No lo sé\""
+                 },
+                {
+                    "role": "user",
+                    "content": f"Contexto: {context}\n\n---\n\nPregunta: {question}\nRespuesta:"
+                }
+            ],
+            # prompt=f"Answer the question based on the context below, and if the question can't be answered based on the context, say \"Lo siento, no lo se\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
             temperature=0.5,
             max_tokens=max_tokens,
             top_p=1,
@@ -440,9 +449,9 @@ def answer_question(
             stop=stop_sequence,
             model=model,
         )
-        return response["choices"][0]["text"].strip()
-        # for model gpt-3.5-turbo
-        # return response["choices"][0]["message"]["content"].strip()
+        # return response["choices"][0]["text"].strip()
+        # uncomment for model gpt-3.5-turbo
+        return response["choices"][0]["message"]["content"].strip()
     except Exception as e:
         print(e)
         return ""
