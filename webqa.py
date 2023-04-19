@@ -18,6 +18,7 @@ from openai.embeddings_utils import distances_from_embeddings, cosine_similarity
 from dotenv import load_dotenv
 
 load_dotenv()
+openai.organization = "org-jBUyIFlruQiM4EliWzpmB3kl"
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # Regex pattern to match a URL
@@ -433,15 +434,19 @@ def answer_question(
             messages=[
                 {
                     "role": "system",
-                    "content": f"Eres un asistente inteligente que responderá preguntas de empleados sobre la empresa Kaleidos. Tus respuestas estarán basadas en el contexto proporcionado, y si no entiendes la pregunta según ese contexto, responderás \"No lo sé\""
-                 },
+                    "content": f"Eres un asistente inteligente que responderá preguntas de empleados sobre la empresa Kaleidos. Tus respuestas estarán basadas en el contexto proporcionado y en las anteriores preguntas y respuestas. No hagas diferencias en el género de las palabras. Si no encuentras la información exacta, intenta encontrar información similar y muéstrala indicando que puede no ser información exacta. Si no encuentras nada responderás \"No lo sé\""
+                },
+                {
+                    "role": "system",
+                    "content": f"Para que puedas interpretar mejor las preguntas te vamos a pasar una lista de sinónimos: rol=perfil,función; correo=email, lista de correo, lista distribución; kaleider=compañera,empleada,equipo,persona,trabajadora,plantilla"
+                },
                 {
                     "role": "user",
                     "content": f"Contexto: {context}\n\n---\n\nPregunta: {question}\nRespuesta:"
                 }
             ],
             # prompt=f"Answer the question based on the context below, and if the question can't be answered based on the context, say \"Lo siento, no lo se\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
-            temperature=0.5,
+            temperature=0.6,
             max_tokens=max_tokens,
             top_p=1,
             frequency_penalty=0,
