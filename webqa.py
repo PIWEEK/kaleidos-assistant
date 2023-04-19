@@ -446,7 +446,7 @@ def answer_question(
                 }
             ],
             # prompt=f"Answer the question based on the context below, and if the question can't be answered based on the context, say \"Lo siento, no lo se\"\n\nContext: {context}\n\n---\n\nQuestion: {question}\nAnswer:",
-            temperature=0.6,
+            temperature=0.3,
             max_tokens=max_tokens,
             top_p=1,
             frequency_penalty=0,

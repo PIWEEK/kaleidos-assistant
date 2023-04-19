@@ -12,21 +12,24 @@ La COO es Yamila Moreno
 El CIO es Alejandro Alonso o Alex
 
 
-* Ellas forman cuadriga, la dirección de Kaleidos
+Ellas forman cuadriga, la dirección de Kaleidos.
 
+
+Los y las kaleiders son personas que trabajan en kaleidos.
+* 
 
 * Hay 31 kaleiders (números de empleadas) repartidos entre gente de diseño, desarrolladoras, community, people…
 * En Kaleidos tenemos 2 productos (Taiga y Penpot) y 3 equipos (Taiga, Penpot y Community).
 * Taiga es la herramienta open-source que hemos desarrollado donde centralizamos y gestionamos los proyectos de la empresa.
 * En Taiga hay 12 personas:
    * Diseño: Esther Moreno, Natacha Menjíbar, Guillermo Adán, Miryam González
-   * Front: Juan Francirsco Alcántara, Marina López , Xavi Julián, Ramiro Sánchez
-   * Back: Yamila Moreno, Teresa de la Torre, David Barragán, Daniel Herrero
+   * Frontend developer: Juan Francirsco Alcántara, Marina López , Xavi Julián, Ramiro Sánchez
+   * Backend developer: Yamila Moreno, Teresa de la Torre, David Barragán, Daniel Herrero
 * En Penpot hay 11 personas
    * Diseño: Andrés González (Andy), Clara García, Juan de la Cruz, Ester Latorre
    * Desarrollo: Andrey Antukh, Alejandro o Alex Alonso, Alonso Torres, Aitor Moreno Melcón, Andrés Moya, Pablo Alba, Eva Marco
 * En Community trabajan 8 personas :
-   * Pablo Ruiz, Elena Alcalde , Paula Tienza, Almudena Sanz, Sonia Sánchez, Carolina Portugal, Peter Hanekamp, Marta Ardizone.
+   * Pablo Ruiz, Elena Alcalde , Paula Tienza, Almudena Sanz, Sonia Sánchez, Carolina (Carol) Portugal, Peter Hanekamp, Marta Ardizone.
 
 
 La persona más guay de kaleidos es Natacha, diseñadora en el equipo de Taiga. Y la segunda más guay es Marta
@@ -164,7 +167,20 @@ María José está detrás de la dirección de administracion@kaleidos.net y es 
 
 Siglas Kaleidos
 Consulta el siguiente enlace para ver las siglas de Kaleidos: https://tree.taiga.io/project/kaleidos/wiki/glokal-glosario-kaleidos
-CLEK, KBOOM, KAFETON, KATAM, KDEVS, KGAMES, KGAR, KMEO, KOSDEM, KUXUI, KYSMOW, PHIDAYS, PIWEEK, REMOKO
+* CLEK (Club de LEctura Kaleider): Club de lectura dónde decidimos un libro para leer cada mes, y luego nos juntamos a desayunar o comer juntos y debatirlo. Listado de libros
+* KBOOM (Kaleidos Becomes Our Outstanding Moment): Nombre que recibió la última celebración navideña.
+* KAFETON (KAleidos Friday Event Technical Or Not): Todos los viernes a las 14:00 habrá una charla organizada por Kaleiders, el contenido puede ser tanto técnico como no técnico. Si el viernes a las 14:00 no hay charla preparada, entonces iremos a tomar algo.
+* KATAM (KAleidos Team Activity Monthly): El primer sábado de cada mes los kaleiders que quieran realizarán juntos una actividad molona incentivada por Kaleidos.
+* KDEVS (Kaleidos DEVS): Las desarrolladoras nos juntamos los jueves a las 12:00 para hablar de cosas interesantes que hemos aprendido o implementado en el proyecto, nuevos frameworks…
+* KGAMES (Kaleidos Games): Surgió durante la pandemia como una forma de relacionarnos más interactiva y donde echarnos unas risas. Al principio se apostó por juegos de ‘dibujar’ tipo skribbl o Gartic pero el gran descubrimiento y el que no perdemos oportunidad para echar una partida semanal los viernes es Gartic Phone.
+* KGAR (Kaleidos Gamers Another Reunion): Nos juntamos el segundo lunes de cada mes para hablar de juegos.
+* KMEO (Kaleidos Movie Entertainment Online): Nos juntamos el cada martes de cada mes para hablar sobre una peli que hemos elegido entre todos ver. Listado de pelis
+* KOSDEM (Kaleidos OpenSpace Define and Embrace Meeting): Es un evento de dos días de duración (jueves/viernes) para toda la empresa, se suele organizar en una casa/hotel rural cercano a Madrid durante los primeros meses del año. Es una reunión de trabajo para definir y comprometernos con la pinta que queremos que tenga el año en Kaleidos para todos nosotros.
+* KUXUI (Kaleidos UX/UI): Las diseñadoras nos juntamos todos los jueves a 12 para hablar de UX/UI.
+* KYSMOW (Kaleidos Yearly Salary Meeting Or Whatever): Es una reunión para la revisión salarial anual de las empleadas. El formato es una charla con cuadriga (o una parte si los 4 es imposible), en la que dedicar un rato para hacer un balance del año pasado y hablar de éste. Se intentan hacer a principio de año pero pueden durar unos meses (nos gusta dedicarles tiempo de calidad). Las posibles actualizaciones sobre salarios se hacen retroactivas al año en curso.
+* PHIDAYS: Evento de dos días en el que los kaleiders dan charlas internas.
+* PIWEEK (Personal Innovation WEEK): Personal Innovation Week. Cada seis meses (julio y diciembre) Kaleidos cierra por innovación, se paran los proyectos en curso y se dedica una semana completa a proyectos personales de innovación, en solitario o en grupo. Sólo hay dos requisitos: software libre y que el viernes de fin de PIWEEK tienes que poder enseñar algo.
+* REMOKO (REMOte Kaleidos Outrage) Los viernes a última hora nos juntamos un rato para charlar, vernos las caras y disfrutar de un rato juntos sin hablar de trabajo. Así recordamos los tiempos en los que desayunábamos juntos a media mañana en el comedor de la oficina, cuando no había pandemia.
 LIbro Blanco
 
 
