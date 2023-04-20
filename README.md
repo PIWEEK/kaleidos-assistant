@@ -24,7 +24,7 @@ pip install -r requirements.txt
 Create an `.env` file with the following variables:
  - DOC_URL: text document with the context to feed the model in order to build its answers
 - OPENAI_API_KEY: a valid API_KEY in [OpenAI](https://platform.openai.com/account/api-keys)
-- OPENAI_ORGANIZATION: your organization in [OpenAI](https://platform.openai.com/account/api-keys)
+- OPENAI_ORGANIZATION: your organization in [OpenAI](https://platform.openai.com/account/org-settings)
 - MATTERMOST_URL: the Mattermost url where the bot will run
 - BOT_TOKEN: the Mattermost's token you get when the bot is created
 
