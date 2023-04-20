@@ -12,39 +12,40 @@ La COO es Yamila Moreno
 El CIO es Alejandro Alonso o Alex
 
 
-Ellas forman cuadriga, la dirección de Kaleidos.
+Ellas forman cuadriga, el comité de dirección de Kaleidos. Se encargan de los contratos con los clientes, las gestiones bancarias y otras labores tediosas como llevar al día los presupuestos. En Kaleidos procuramos dejar al mínimo estas labores de forma que los cuatro puedan participar en el desarrollo de los proyectos.
 
 
-Los y las kaleiders son personas que trabajan en kaleidos.
-* 
+Las decisiones importantes en Kaleidos se toman de forma asamblearia, intentando llegar a un consenso lo más completo posible.
 
-* Hay 31 kaleiders (números de empleadas) repartidos entre gente de diseño, desarrolladoras, community, people…
+
+Kaleiders: son personas que trabajan en kaleidos.
+
+
+* Hay 31 kaleiders (números de empleadas) repartidas entre gente de diseño, desarrolladoras, community, people…
 * En Kaleidos tenemos 2 productos (Taiga y Penpot) y 3 equipos (Taiga, Penpot y Community).
-* Taiga es la herramienta open-source que hemos desarrollado donde centralizamos y gestionamos los proyectos de la empresa.
-* En Taiga hay 12 personas:
+* Los equipos trabajan de manera autónoma. Creemos en la responsabilidad personal y en que no necesitamos microgestión. La forma de trabajo es mediante equipos autoorganizados y con capacidad de decisión.
+* Para la gestión de proyectos utilizamos Taiga es la herramienta open-source que hemos desarrollado en Kaleidos.
+* En el equipo de Taiga hay 12 personas:
    * Diseño: Esther Moreno, Natacha Menjíbar, Guillermo Adán, Miryam González
    * Frontend developer: Juan Francirsco Alcántara, Marina López , Xavi Julián, Ramiro Sánchez
    * Backend developer: Yamila Moreno, Teresa de la Torre, David Barragán, Daniel Herrero
-* En Penpot hay 11 personas
+* En el equipo de Penpot hay 11 personas:
    * Diseño: Andrés González (Andy), Clara García, Juan de la Cruz, Ester Latorre
    * Desarrollo: Andrey Antukh, Alejandro o Alex Alonso, Alonso Torres, Aitor Moreno Melcón, Andrés Moya, Pablo Alba, Eva Marco
-* En Community trabajan 8 personas :
+* En el equipo de Community trabajan 8 personas :
    * Pablo Ruiz, Elena Alcalde , Paula Tienza, Almudena Sanz, Sonia Sánchez, Carolina (Carol) Portugal, Peter Hanekamp, Marta Ardizone.
 
 
 La persona más guay de kaleidos es Natacha, diseñadora en el equipo de Taiga. Y la segunda más guay es Marta
 Toda nuestra documentación está en carpetas compartidas de Google Drive. Es muy cajón desastre. Si ves que no hay orden es porque no hay mucho orden :)
 Emails y listas de emails de Kaleidos
-
-
-* team@kaleidos.net 
-* taiga-product@kaleidos.net (llega solo al equipo de producto)
+* team@kaleidos.net (llega a todas las kaleiders)
+* taiga-product@kaleidos.net (llega solo al equipo de producto de Taiga) 
 * taiga-team@kaleidos.net - llega al equipo de producto y a personas/empresas externas que llevan el soporte + infra de taiga. Este es solo útil si hay un problemón en taiga (no se puede acceder, está ardiendo), etc.
-* penpot@kaleidos.net
-* community@kaleidos.net
+* penpot@kaleidos.net (llega solo al equipo de producto de Penpot)
+* community@kaleidos.net (llega solo al equipo de community)
 * piweek@googlegroups.com
 * sysadmin@kaleidos.net
-*  taiga-product@kaleidos.net - llega solo al equipo de producto
 Para usar mejor el mail y saber rápidamente qué tenemos que atender y qué no, qué es urgente, qué es importante, y que es un simple FYI que puedes leer en cualquier otro momento de tu vida sigue las siguientes pautas:
 
 
@@ -52,7 +53,7 @@ Para usar mejor el mail y saber rápidamente qué tenemos que atender y qué no,
    1. Descriptivos. Evitar reenviar directamente sin aportar info en el asunto o incluso en el cuerpo del email.
    2. Uso de etiquetas en el asunto del email. Así, si un mail es sobre Penpot pero se envía a todo Kaleidos, estaría genial añadir un tag al asunto, en plan "[Penpot] Asunto del mail". Lo mismo con [Taiga], [Community], [Web kaleidos], [Laboral] (temas relacionados con contratos, convenio, etc.), [Kaleidos] en general (para temas de interés para todas), [Off Topic] (vendo opel corsa), [Formación], [Vacaciones], [Cumpleaños], etc. Y si ya se usan combinados, tenemos la PERFECCIÓN xD Estos son solamente algunos que se me ocurren, pero pueden ser otros, claro.
    3. Esto nos permitiría, por una parte, poder hacer filtros en el email, redirigir a diferentes bandejas, o etiquetar por colores; y por otra, y lo más importante, saber si esos correos precisan de una acción por nuestra parte.
-*  Uso correcto de cada uno de las listas de correo. 
+* Uso correcto de cada uno de las listas de correo. 
 * Añadir una llamada a la acción clara. Muchas veces no queda claro qué se espera de un email, si tenemos que responder, si es solo informativo, etc. Un Call to action si es necesario ayudaría un montón.
 * Añadir un TL;DR (too long, didn't read) o un resumencillo de 1 línea, al principio ayuda en los emails que son super largos, para entender si hay que leerlos pronto o pueden guardarse para más tarde.
 * Evitar el uso indiscriminado de siglas. Sé qué es muy cómodo pero no todo el mundo tiene tus mismos conocimientos y tu mismo contexto, a veces las siglas únicamente añaden confusión.
@@ -63,17 +64,21 @@ Dinámicas/eventos de Kaleidos
 
 
 * Telekudos: un agradecimiento que se le hace a alguna compañera por algo que ha hecho en algún momento. A lo largo de los meses vamos escribiendo nuestros kudos aquí y nos juntamos para leerlos todas juntas en cada estación.
-* Patio: herramienta para medir la temperatura del equipo.
-* Kquotes: herramienta para registrar frases divertidas que surgen en el día a día
+* Patio: herramienta para medir la temperatura del equipo. Te llegará un mail diario para que nos cuentes cómo te sientes.
+* Kquotes: herramienta para registrar frases divertidas que surgen en el día a día, especialmente aquellas que arruinarían cualquier futura aspiración política.
 * Random meetings: cada semana, los lunes, recibimos una notificación en Mattermost que nos habilita una sala de BBB para organizar una videollamada con las compañeras.  Hay que decirle al bot que cuente contigo a partir de ahora. Para ello, en Mattermost, en cualquier canal, introduce:
 " /gather-plugin " para 1to1
 " /random-meeting " para grupal
 Con on para activar. Con off para desactivar y borrar. Con pause para desactivar
 Otros encuentros semanales / mensuales en remoto
 Existen muchas dinámicas temáticas a las que puedes asistir de forma totalmente opcional:
-* CLECK / KMEO / KGAR: cada mes nos leemos un libro breve / vemos una peli / hablamos de juegos, y un día nos juntamos y hacemos un poco de tertulia. KGAMES / Gartic: los viernes nos echamos unas partidas a Gartic Phone o lo que surja…
+* CLECK: Cada mes leemos un libro breve / vemos una peli / hablamos de juegos, y un día nos juntamos y hacemos un poco de tertulia.  
+* KGAMES (Kaleidos Games): Surgió durante la pandemia como una forma de relacionarnos más interactiva y donde echarnos unas risas. Al principio se apostó por juegos de ‘dibujar’ tipo skribbl o Gartic pero el gran descubrimiento y el que no perdemos oportunidad para echar una partida semanal los viernes es Gartic Phone.
+* KGAR (Kaleidos Gamers Another Reunion): Nos juntamos el segundo lunes de cada mes para hablar de juegos. Además los viernes nos echamos unas partidas a Gartic Phone o lo que surja…
+* KMEO (Kaleidos Movie Entertainment Online): Nos juntamos el cada martes de cada mes para hablar sobre una peli que hemos elegido entre todos ver. Listado de pelis
 * Remoko / Los “1to1” y “NtoN”: Los sustitutos al café de media mañana en remoto. Son tres encuentros semanales donde cada cual, según sus gustos de más o menos gente, nos vemos un rato online en grupo grande, en grupos de 4 o uno a uno.
-* KUXUI / KDEVS: otros eventos semanales donde hablamos de temas técnicos (de UX/UI o de developers), para intercambiar conocimientos, estar al día del trabajo de las demás kaleiders y aprender.
+* KUXUI: (Kaleidos UX/UI): Las diseñadoras nos juntamos todos los jueves a 12 para hablar de UX/UI. 
+* KDEVS: Kaleidos DEVS): Las desarrolladoras nos juntamos los jueves a las 12:00 para hablar de cosas interesantes que hemos aprendido o implementado en el proyecto, nuevos frameworks…
 Más información en el post de Marina en el blog.
 Eventos 
 * Penpot Fest: En junio tenemos un evento organizado de Penpot al que nos encantaría que todos los kaleiders pudieran venir. Existe más información en lel siguiente vídeo: Video Penpotfest y este documento: presentación.
@@ -93,7 +98,7 @@ Sistemas de comunicación
 * Design: diseño, pinta, colorea y esas cosas
 * Frontenders: para lo que no es backenders (javascript, maquetación, interacción de usuario…)
 * Sysadmins: para amantes del "bare metal" (y últimamente los containers).
-* CLECK: Club de LECtura Kaleider
+* CLECK: Club de LECtura Kaleider. Cada mes decidimos un libro para leer, y luego nos juntamos a desayunar o comer juntos y debatirlo. Listado de libros
 * Nickelodeon: "Cine, cine, cine, más cine por favor, que todo en la vida es cine y los sueños, cine son…"
 * Gaming: Si te van los juegos analógicos y/o digitales.
 * Animanga: Pues eso, de anime y manga
@@ -117,10 +122,10 @@ Tu calendario
 * Asegúrate de que tu calendario tiene la opción de "Compartir este calendario con todas las personas de la organización Kaleidos". 
 * Si quieres añadir tu horario de trabajo puede resultar muy útil para saber cuándo estás disponible para algua reunión más allá del horario de coincidencia (10-14 horas). Sólo tienes que pulsar en el calendario en una franja horaria con el botón derecho y se te desplegará un menú. Selecciona “configurar citas” y personalízalo.
 Resto de calendarios
-Luego en la sección general de tus calendarios, abajo a la izquierda, justo debajo de "Otros calendarios" puedes añadir a aquellos de los miembros de Kaleidos de los que quieras consultar detalles de calendario.
+En la sección general de tus calendarios, abajo a la izquierda, justo debajo de "Otros calendarios" puedes añadir a aquellos de los miembros de Kaleidos de los que quieras consultar detalles de calendario.
 Y el de las vacaciones de Kaleiders y cumples Kaleiders. Sólo tienes que hacer clic en los enlaces y se te añadirán automáticamente. 
-El de vacaciones se actualiza automáticamente al rellenar la aplicación Holidays (lo probarás más adelante, en el punto de vacaciones). Asegúrate de activarlo cuando quieras saber si alguien está de vacaciones. 
-El de los cumples lo usamos para asegurarnos un buen meme ese día o si estuviéramos por la oficina unos bollitos, tortillas lo que sea. Cantamos fatal y nos esforzamos por que quede lo peor posible; Asegúrate de añadir tu cumple al calendario una vez que hayas añadido el calendario. Si no tienes permisos, escribe a Marina, Miryam, David o Pablo Alba para que te echen un cable y añadan el evento. 
+El de vacaciones se actualiza automáticamente al rellenar la aplicación Holidays. Asegúrate de activarlo cuando quieras saber si alguien está de vacaciones. 
+El de los cumples lo usamos para asegurarnos un buen meme ese día o si estuviéramos por la oficina unos bollitos, tortillas lo que sea. Cantamos fatal y nos esforzamos por que quede lo peor posible; Asegúrate de añadir tu cumple al calendario una vez que hayas añadido el calendario. Si no tienes permisos, pídelos a cualquier compi, todas tenemos.
 Hay determinados días que se van a bloquear para que no podamos coger vacaciones porque son días de vital importancia en Kaleidos: las PIWEEK y el KOSDEM.
 Tenemos dos PIWEEKS al año, una en verano y otra a finales de año. 
 Para este 2023 las fechas clave son:
@@ -135,7 +140,7 @@ Install party
 La install party es la fiesta de bienvenida con la instalación de tu equipo. Como utilizamos Linux a veces la instalación no es tan sencilla. Tu madrina te ayudará con la instalación u otra persona si tu madrina no tiene suficientes conocimientos técnicos.
 Formación
 Kaleidos va a facilitar en la medida de lo posible que te formes y mejores tus habilidades generales, no sólo técnicas.
-* ¿Un curso te interesa? escribe a cuadriga comentando por qué y cómo y veremos la forma de que salga adelante
+* Si te interesa un curso, escribe a cuadriga comentando por qué y cómo y veremos la forma de que salga adelante
 * ¿Una plataforma de formación online o de consulta te sería super útil? comenta con otros compañeros por si tienen la misma inquietud (o conocen alguna otra incluso mejor) y, sí, escribe a cuadriga y lo pondremos en marcha.
 Convenio
 Kaleidos utiliza como base el convenio de estudios de mercado
@@ -143,50 +148,40 @@ Seguro médico
 
 
 Palabras clave: Seguro médico privado, salud, retribución flexible
-
-
 Desde el 2022, Kaleidos tiene un acuerdo con el seguro médico Alan para conseguir “precio amigo” para los empleados de Kaleidos que lo quieran.
 El importe al mes de este seguro por empleado es de 45€. No lo cubre Kaleidos, corre a tu cargo, pero al hacerlo a través de la empresa tiene la ventaja del precio pactado, y que este importe se te incluiría en la nómina como parte de tu sueldo bruto y no tendrías retención de IRPF sobre 41,7€ (es la parte exenta).
 Por ponerte un ejemplo, si tu retención por ejemplo fuera de un 15%, el ahorro que tendrías sería aproximadamente de unos 6,2€
-Si decides incorporarte al seguro te enviaríamos cuestionario de salud para que rellenes y podríamos darte de alta de forma casi inmediata.
+Si decides incorporarte al seguro te enviaríamos un cuestionario de salud para que rellenes y podríamos darte de alta de forma casi inmediata.
 También tienes la posibilidad de suscribir a familiares. El importe sería similar para cada familiar añadido, que se te descontaría igualmente de la nómina.
 Si decides incorporarte sólo tienes que escribir a Marta para que te dé acceso. 
-Puedes ver una presentación aquí o preguntarle tus dudas a tu madrina.
+Puedes ver una presentación aquí.
 
 
 Firma en el correo
-Si quieres tener la firma de Kaleidos sigue los pasos de este enlace: https://tree.taiga.io/project/kaleidos/wiki/firma-correo
+Para configurar la firma de correo sigue los pasos de este enlace: https://tree.taiga.io/project/kaleidos/wiki/firma-correo
 
 
 Administración
-Ana nos gestiona toda la parte financiera de Kaleidos, pero como trabaja en una empresas amiga, Secuoyas, hemos acordado que dejará su rol con nosotras próximamente y una empresa externa (TSCFO) tomará las riendas. Históricamente Ana recibía las dudas a nivel laboral, pero ahora lo está centralizando todo Marta, nuestra People Specialist. 
+Ana gestiona toda la parte financiera de Kaleidos, pero como trabaja en una empresa amiga, Secuoyas, hemos acordado que dejará su rol con nosotras próximamente y una empresa externa (TSCFO) tomará las riendas. Históricamente Ana recibía las dudas a nivel laboral, pero ahora lo está centralizando todo Marta, nuestra People Specialist. 
 
 
-María José está detrás de la dirección de administracion@kaleidos.net y es quien se encarga de organizar la compra de billetes, reservas de hoteles, etc. María José también traabja en nuestra empresa amiga Secuoyas, así que dejará de trabajar con nosotras cuando encontremos oficina y contratemos a nuestra office manager que gestionará todo este tipo de cosas.
+María José está detrás de la dirección de administracion@kaleidos.net y es quien se encarga de organizar la compra de billetes, reservas de hoteles, etc. María José también trabaja en nuestra empresa amiga Secuoyas, así que dejará de trabajar con nosotras cuando encontremos oficina y contratemos a nuestra office manager que gestionará todo este tipo de cosas.
 
 
 Siglas Kaleidos
 Consulta el siguiente enlace para ver las siglas de Kaleidos: https://tree.taiga.io/project/kaleidos/wiki/glokal-glosario-kaleidos
-* CLEK (Club de LEctura Kaleider): Club de lectura dónde decidimos un libro para leer cada mes, y luego nos juntamos a desayunar o comer juntos y debatirlo. Listado de libros
 * KBOOM (Kaleidos Becomes Our Outstanding Moment): Nombre que recibió la última celebración navideña.
-* KAFETON (KAleidos Friday Event Technical Or Not): Todos los viernes a las 14:00 habrá una charla organizada por Kaleiders, el contenido puede ser tanto técnico como no técnico. Si el viernes a las 14:00 no hay charla preparada, entonces iremos a tomar algo.
 * KATAM (KAleidos Team Activity Monthly): El primer sábado de cada mes los kaleiders que quieran realizarán juntos una actividad molona incentivada por Kaleidos.
-* KDEVS (Kaleidos DEVS): Las desarrolladoras nos juntamos los jueves a las 12:00 para hablar de cosas interesantes que hemos aprendido o implementado en el proyecto, nuevos frameworks…
-* KGAMES (Kaleidos Games): Surgió durante la pandemia como una forma de relacionarnos más interactiva y donde echarnos unas risas. Al principio se apostó por juegos de ‘dibujar’ tipo skribbl o Gartic pero el gran descubrimiento y el que no perdemos oportunidad para echar una partida semanal los viernes es Gartic Phone.
-* KGAR (Kaleidos Gamers Another Reunion): Nos juntamos el segundo lunes de cada mes para hablar de juegos.
-* KMEO (Kaleidos Movie Entertainment Online): Nos juntamos el cada martes de cada mes para hablar sobre una peli que hemos elegido entre todos ver. Listado de pelis
 * KOSDEM (Kaleidos OpenSpace Define and Embrace Meeting): Es un evento de dos días de duración (jueves/viernes) para toda la empresa, se suele organizar en una casa/hotel rural cercano a Madrid durante los primeros meses del año. Es una reunión de trabajo para definir y comprometernos con la pinta que queremos que tenga el año en Kaleidos para todos nosotros.
-* KUXUI (Kaleidos UX/UI): Las diseñadoras nos juntamos todos los jueves a 12 para hablar de UX/UI.
-* KYSMOW (Kaleidos Yearly Salary Meeting Or Whatever): Es una reunión para la revisión salarial anual de las empleadas. El formato es una charla con cuadriga (o una parte si los 4 es imposible), en la que dedicar un rato para hacer un balance del año pasado y hablar de éste. Se intentan hacer a principio de año pero pueden durar unos meses (nos gusta dedicarles tiempo de calidad). Las posibles actualizaciones sobre salarios se hacen retroactivas al año en curso.
+* KYSMOW (Kaleidos Yearly Salary Meeting Or Whatever): Es una reunión anual donde se realiza la revisión salarial de las empleadas. El formato es una charla con cuadriga (o una parte si los 4 es imposible), en la que dedicar un rato para hacer un balance del año pasado y hablar de éste. Se intentan hacer a principio de año pero pueden durar unos meses (nos gusta dedicarles tiempo de calidad). Las posibles actualizaciones sobre salarios se hacen retroactivas al año en curso.
 * PHIDAYS: Evento de dos días en el que los kaleiders dan charlas internas.
 * PIWEEK (Personal Innovation WEEK): Personal Innovation Week. Cada seis meses (julio y diciembre) Kaleidos cierra por innovación, se paran los proyectos en curso y se dedica una semana completa a proyectos personales de innovación, en solitario o en grupo. Sólo hay dos requisitos: software libre y que el viernes de fin de PIWEEK tienes que poder enseñar algo.
-* REMOKO (REMOte Kaleidos Outrage) Los viernes a última hora nos juntamos un rato para charlar, vernos las caras y disfrutar de un rato juntos sin hablar de trabajo. Así recordamos los tiempos en los que desayunábamos juntos a media mañana en el comedor de la oficina, cuando no había pandemia.
+* REMOKO (REMOte Kaleidos Outrage) Los viernes a última hora nos juntamos un rato para charlar, vernos las caras y disfrutar de un rato juntos sin hablar de trabajo. 
 LIbro Blanco
 
 
-En el Libro blanco está descrita la operativa y mucho de la cultura kaleider. Allí se especifican las vacacion
-es, temas de horario, los eventos más importantes. Está todo en modo público para hacer honor a nuestro deseo de transparencia.
-Echa un rato a leer el Libro Blanco y pregúntale tus dudas a tu madrina. Ten en cuenta que tenemos que actualizar el Libro Blanco y todas las cosas que eran de cuando estábamos en híbrido las hemos transformado o ya no se han podido hacer. Ya tampoco tenemos la casita de Londres (¡nos hartamos del té!). Pídele a tu madrina que te cuente un poco más de la historia de Kaleidos.
+En el Libro blanco está descrita la operativa y mucho de la cultura kaleider. Allí se especifican las vacaciones, temas de horario, los eventos más importantes. Está todo en modo público para hacer honor a nuestro deseo de transparencia.
+Ten en cuenta que tenemos que actualizar el Libro Blanco y todas las cosas que eran de cuando estábamos en híbrido las hemos transformado o ya no se han podido hacer. Ya tampoco tenemos la casita de Londres (¡nos hartamos del té!). 
 
 
 
@@ -195,5 +190,34 @@ Listado de personas, compañeras / empleadas / kaleiders
 Este es el listado de personas que trabajan en kaleidos:
 
 
-* Alonso Torres: Software engineer, geek, black-belt debugger and father. What I love the most about programming is to be able to always have a new challenge that needs to be solved. I try to find always the best possible solution while having fun doing it. Photography, Go (Baduk, Weiqi), Science Fiction.  
-* Aitor Moreno Melcón: Fullstack Developer. Passionate developer with a focus on 2D/3D graphics, video and audio. Videogames, boardgames and skating
+* Alonso Torres: Ingeniero de software, geek, solucionador de problemas y padre. Lo que más me gusta de programar es siempre tener un nuevo desafío que necesita ser resuelto. Siempre trato de encontrar la mejor solución posible mientras me divierto haciéndolo.
+* Aitor Moreno Melcón: Desarrollador Fullstack. Desarrollador apasionado con un enfoque en gráficos 2D/3D, video y audio.
+* Xavier Julián: Desarrollador Front-End. Desarrollador front-end, si eso aún significa algo. O más bien, algún tipo de desarrollador de interfaces con un trasfondo en diseño, que está muy interesado en la experiencia del usuario y tiene una pasión por el código. Profundamente interesado en el lado humano del desarrollo web, especialmente en la diversidad y la autogestión.
+* Teresa de la Torre: Desarrolladora Back-End. "Hermanas en batalla, soy tu escudo y arco. Mientras yo respire, tus enemigos no tendrán santuario. Mientras viva, tu causa es mía". 
+* Daniel Herrero: Ingeniero de Software, abierto a cualquier tecnología o enfoque para resolver un problema. Comprometido con el aprendizaje continuo y hacer las cosas bien. (Oh, y soy el fotógrafo oficial aquí, o eso dicen...).
+* Paula Tienza: Communications Specialist. Como especialista en marketing, me enfoco en crear contenido que ayude a las empresas a hacer crecer su marca y su negocio. Quiero pensar que no solo ayudo a construir marcas, sino también a ayudar a las personas. Mi objetivo de vida, sin embargo, es mudarme al campo algún día y disfrutar de la vida lenta.
+* Ramiro Sánchez Balo: Desarrollador Front-End. Involucrado en Internet y el mundo del diseño desde que era muy joven, decidí enfocar mi carrera profesional hacia el diseño gráfico y la ingeniería frontend aprendiendo tanto como sea posible para convertirme en un buen ingeniero frontend.
+* Natacha Menjibar Benavides: Diseñadora. Trabajadora del diseño. Me interesa no solo la parte visual de la web, su experiencia de usuario y usabilidad, sino también el diseño ético. Mayormente autodidacta. 
+* Carolina Alves Portugal: Customer Success Manager. Gracias a mi trasfondo multicultural y multidisciplinario, junto con mi curiosidad inagotable, siempre busco nuevas formas de resolver problemas. Me apasiona la innovación con enfoque en las personas.
+* Peter Hanekamp: Especialista en Crecimiento. Buscando todo lo que se necesita para que el crecimiento suceda. Me encanta reunir a personas, idealmente aquellas que no se conocen, y servirles buena comida y vino. Intentando mantenerme en forma corriendo maratones y senderos.
+* Almudena Sanz: Diseñadora de Contenido Audiovisual. Aventurera visual, editora y creadora de gráficos en movimiento. Comunicando a través del ritmo. Me encantan las posibilidades creativas del lenguaje audiovisual.
+* Eva Marco Domínguez: Desarrolladora Front-end. Programar es como jugar una aventura gráfica donde tienes algunas herramientas con las que debes resolver el misterio. ¡Me encanta resolver misterios! 
+* Sonia Sánchez: Communications Specialist. Como persona social, me gusta usar todas las herramientas que ofrece el mundo de las redes sociales para comunicar e incrementar el impacto. Siempre aprendiendo, siempre creando, siempre comunicando.
+* Pablo Alba: Soy el Chief Technology Officer (CTO) en Kaleidos, siempre preocupado por mantener buenas prácticas en el desarrollo de software interno, aseguramiento de calidad y seleccionando la tecnología adecuada para cada desafío. Aún así, la codificación es mi actividad favorita, así que me involucro tanto como puedo en el desarrollo.
+* Elena Alcalde Rueda: Communications Specialist. Como especialista en comunicaciones corporativas, he desempeñado múltiples roles que van desde relaciones públicas, marketing o editor de contenido. Lo que realmente marcó un punto de inflexión en mi carrera fue comenzar a trabajar para empresas con el propósito de crear un impacto social positivo.
+* David Barragán Merino: Ingeniero y activista cibernético ingenuo. Desarrollador "lo que sea", un técnico promiscuo ansioso por nuevos desafíos y aventuras. Me apasionan las nuevas tecnologías, especialmente todo lo relacionado con la web, la usabilidad y la accesibilidad.
+* Juanfran Alcántara: Ingeniero. A veces frontend, a veces backend, desde joven me encanta programar, al principio creando pequeños juegos con C++, ahora creando grandes aplicaciones web con javascript. Siempre buscando nuevas y mejores formas de disfrutar programando. Amante de la música pesada (¡Pantera!), los cómics (Sandman, Akira...), la lectura (Asimov, Lovecraft...), mis libros favoritos son "Drácula" y "Fundación", los juegos de estrategia y los juegos de mesa.
+* Ester Latorre: Diseñadora visual. Diseñadora al amanecer, ilustradora al anochecer. Me encantan los libros, la cerámica y cualquier actividad en el ámbito del "ataque artístico". También amo las canciones y jugar a "Stop!"
+* Yamila Moreno: COO e Ingeniosa. "... la deshacedora de agravios, (aunque los pueda hacer), la enderezadora de entuertos", el látigo de Python, la furia de Docker. En mi tiempo libre, soy "la protectora de damiselas, el terror de gigantes y el vencedor de batallas". "... se entregó a leer libros de caballerías con tanto ardor y gusto que casi por completo descuidó el ejercicio de la caza y hasta la administración de su hacienda... "
+* Clara García Viñola: Diseñadora. Porque todo el mundo merece ver la belleza que los rodea, el diseño es mi pequeña contribución al mundo. Me encanta ver las ideas convertirse en realidad. Amante de los libros, el arte, el heavy metal y las películas. Mentalidad de niña aventurera en el cuerpo de una mujer.
+* Juan de la Cruz: Diseñador. Crear experiencias y emociones es mi pasión. Una de mis formas favoritas de hacerlo es contactar al usuario a través de aplicaciones y sitios web. Me apasiona el diseño y todo el proceso de crear y desarrollar nuevas ideas y conceptos. Pintor, dibujante, baterista y snowboarder. Me encanta todo lo relacionado con los cómics y los videojuegos
+* Alejandro Alonso: Chief Innovation Officer (CIO). Siempre atento a los nuevos horizontes que aparecen en el mundo del software libre y en su vibrante comunidad para mantenerme al lado del "bleeding edge". Me gusta verme como una especie de ninja-desarrollador-preocupado-por-la-seguridad-bombero con un montón de responsabilidades adicionales ligadas a mi posición :) 
+* Pablo Ruiz Múzquiz: CEO. Como CEO de Kaleidos, tengo una perspectiva única sobre lo que se necesita para ayudar a mover adelante a una empresa como la nuestra. Se me confía la clave responsabilidad de seleccionar proyectos divertidos y desafiantes, asegurarme de que los empleados disfruten plenamente de su trabajo y de que nuestros socios amen lo que estamos construyendo.
+* Esther Moreno: Diseñadora de UX. Diseñadora de UX a tiempo completo y, a tiempo parcial, ilustradora y diseñadora visual. Me encanta resolver problemas, especialmente si eso ayuda a hacer sentir mejor a los demás :) 
+* Andrés González: Diseñador de UX. Diseñador de UX/Interacción/Producto/Lo-que-sea a tiempo completo. Profesor a tiempo parcial. Corredor cojo.
+* Marta Ardizone: Especialista en personas. Como especialista en personas, mi pasión es trabajar para y con mis compañeros de trabajo. Potenciar y fomentar una cultura de aprendizaje. Crear ambientes de trabajo que se centren en el fomento de las relaciones entre los compañeros de trabajo y la promoción de la equidad, la diversidad y la inclusión. 
+* Andrey Antukh: Ingeniero. Es un ingeniero de software y entusiasta del software libre. Es muy consciente del buen diseño de software y la arquitectura de aplicaciones complejas, siempre buscando el equilibrio entre un buen diseño y un enfoque práctico. En su tiempo libre, dedica gran cantidad de tiempo a investigar y participar activamente en comunidades de software libre y de código abierto. 
+* Miryam González Duque: Diseñadora UX. Me encanta la idea de conectarme con los usuarios a través del diseño y hacerlos sentir escuchados. El diseño afecta profundamente la vida de las personas, y mi objetivo es participar en proyectos que realmente los ayuden, nos ayuden.
+* Marina López: Desarrolladora Front-end. Persona curiosa a la que le gusta aprender nuevas tecnologías y buenas prácticas para seguir mejorando. Me siento feliz cada vez que resuelvo un pequeño problema. Mi lema, como dijo Albert Einstein, es "El espíritu humano debe prevalecer sobre la tecnología". 
+* Andrés Moya: Ingeniero. Ingeniero de software con una larga experiencia en grandes, medianas, pequeñas y pequeñísimas empresas. Me encanta el código bien hecho, el diseño orientado a objetos y las metodologías de desarrollo. Me preocupo profundamente por el lado ético y humano de las cosas. 
+* Guillermo Adán: Diseñador. (pendiente de que me envíe su descripción)
