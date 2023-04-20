@@ -18,14 +18,14 @@ from openai.embeddings_utils import distances_from_embeddings, cosine_similarity
 from dotenv import load_dotenv
 
 load_dotenv()
-openai.organization = "org-jBUyIFlruQiM4EliWzpmB3kl"
+openai.organization = os.getenv('OPENAI_ORGANIZATION')
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
 # Regex pattern to match a URL
 HTTP_URL_PATTERN = r'^http[s]{0,1}://.+$'
 # Define root domain to crawl
 domain = "onboarding.docs.google"
-full_url = "https://docs.google.com/document/u/0/export?format=txt&id=1iA8frcx75lQwsNNkCvsJWbjRXtVsClxR2Si0VURIqEw"
+full_url = os.getenv('DOC_URL')
 
 PROCESSED_DIR = f"processed/{domain}"
 

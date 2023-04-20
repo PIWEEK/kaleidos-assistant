@@ -9,4 +9,3 @@ df['embeddings'] = df['embeddings'].apply(eval).apply(np.array)
 df.head()
 
 answer = lambda question: print(answer_question(df, question=f"{str(question)}",  max_len=1650, max_tokens=1500, debug=False))
-
