@@ -27,7 +27,6 @@ class KassPlugin(Plugin):
             debug=False
         )
         print(answer)
-        print("------")
         self.driver.reply_to(message, answer)
 
 
