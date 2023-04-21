@@ -135,7 +135,7 @@ def crawl(url):
     # Create a directory to store the csv files
     # if not os.path.exists("processed"):
     if not os.path.exists(PROCESSED_DIR):
-            # os.mkdir("processed")
+            os.mkdir("processed/")
             os.mkdir(PROCESSED_DIR)
 
     # While the queue is not empty, continue crawling

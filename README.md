@@ -25,16 +25,27 @@ Create an `.env` file with the following variables:
  - DOC_URL: text document with the context to feed the model in order to build its answers
 - OPENAI_API_KEY: a valid API_KEY in [OpenAI](https://platform.openai.com/account/api-keys)
 - OPENAI_ORGANIZATION: your organization in [OpenAI](https://platform.openai.com/account/org-settings)
+
+
 - MATTERMOST_URL: the Mattermost url where the bot will run
+- MATTERMOST_PORT: the port to access Mattermost
+- SSL_VERIFY: is Mattermost running under http (True) or https (False)
 - BOT_TOKEN: the Mattermost's token you get when the bot is created
+- BOT_TEAM: the Mattermost's team you want the ot to be accesible
 
 Example: 
-```
-DOC_URL=https://docs.google.com/document/u/0/export?format=txt&id=1iA8f...
+```dotenv
+# AI Context settings
+DOC_URL=https://docs.google.com/document/u/0/export?format=txt&id=1iA8frcx75lQwsNNkCvs...
 OPENAI_API_KEY=sk-JizVlXDGbYULx...
-OPENAI_ORGANIZATION=org-jBUyI...
-MATTERMOST_URL=<https://your mattermost url>
-BOT_TOKEN=k77b5...
+OPENAI_ORGANIZATION=org-jBUyIFlru...
+
+# Mattermost Bot settings
+MATTERMOST_URL=https://...
+MATTERMOST_PORT=443
+SSL_VERIFY=True
+BOT_TOKEN=k77b5un...
+BOT_TEAM=MATTERMOST_TEAM
 ```
 
 ### Making questions
